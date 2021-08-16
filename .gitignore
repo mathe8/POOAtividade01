@@ -22,7 +22,6 @@
 
 # IntelliJ
 out/
-.idea/
 *.iml
 
 # virtual machine crash logs
