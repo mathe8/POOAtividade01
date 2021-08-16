@@ -22,8 +22,8 @@
 
 # IntelliJ
 out/
+.idea/
 *.iml
-*.idea
 
 # virtual machine crash logs
 hs_err_pid*
