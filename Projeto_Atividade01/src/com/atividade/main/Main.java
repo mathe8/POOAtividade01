@@ -1,12 +1,12 @@
 package com.atividade.main;
 
-import com.atividade.faculdade.aluno;
+import com.atividade.faculdade.Aluno;
 
 public class Main {
 
     public static void main(String[] args) {
-        aluno alunoUm;
-        alunoUm = new aluno();
+        Aluno alunoUm;
+        alunoUm = new Aluno();
 
         alunoUm.Nome = "Jorge";
         alunoUm.Nota1 = 5.0;
@@ -19,8 +19,8 @@ public class Main {
 
         System.out.println();
 
-        aluno alunoDois;
-        alunoDois = new aluno();
+        Aluno alunoDois;
+        alunoDois = new Aluno();
 
         alunoDois.Nome = "Maria";
         alunoDois.Nota1 = 6.0;

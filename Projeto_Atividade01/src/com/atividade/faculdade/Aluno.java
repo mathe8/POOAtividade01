@@ -1,6 +1,6 @@
 package com.atividade.faculdade;
 
-public class aluno {
+public class Aluno {
 
     public String Nome;
     public Double Nota1;
