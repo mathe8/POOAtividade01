@@ -3,9 +3,9 @@ package com.atividade.meioTransporte;
 public class Elevador {
 
     private int andarAtual;
-    private int totalDeAndares;
-    private int capacidade;
     private int quantidadePessoas;
+    private final int totalDeAndares;
+    private final int capacidade;
 
     public Elevador(){
         andarAtual = 0; // Térreo
